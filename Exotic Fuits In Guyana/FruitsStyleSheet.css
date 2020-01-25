@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+.section1{
+    background-image: url("fruits.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.section3{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+ 
+.li1{
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+}
+ 
+.li1 li{
+    display: inline-block;
+}
+ 
+.li1 li a{
+    text-decoration: none;
+    color: green;
+    padding: 5px 20px;
+    border: 1px solid #ff0000 transparent;
+    transition: 0.6s;
+}
+ 
+.li1 li a:hover{
+    background-color: green;
+    color: red;
+}
+ 
+ 
+.li2{
+    float: bottom;
+    list-style-type: none;
+    margin-top: 50px;
+    
+}
+ 
+.li2 li{
+    display: inline-block;
+}
+ 
+.li2 li a{
+    text-decoration: none;
+    color: green;
+    padding: 5px 20px;
+    border: 1px solid #ff0000 transparent;
+    transition: 0.6s;
+}
+ 
+.li2 li a:hover{
+    background-color: green;
+    color: red;
+}
+ 
+.ug img{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.sectiona{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-size: 55px;
+
+}
+ 
+.section1{
+    max-width: 1200px ;
+    margin: auto
+ 
+}
+ 
+ 
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ 
+}
+.title h1{
+    color: rgb(0, 0, 0);
+    outline-color: red;
+    font-size: 70px
+ 
+}
+ 
+table {
+    width: 70%;
+    height: 50%;
+ 
+}
+
+.Tab1{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+     
+
+ 
+table, th, td, tr {
+    border-color: rgb(0, 0, 0);
+    border: 2px solid #000000; color: rgb(247, 49, 49);
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+ 
+.fruit1{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.fruit2{
+    padding: 15px;
+   margin-bottom: 20px;
+   border-radius: 10px;
+ 
+}
+ 
+.fruit3{
+    padding: 15px;
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+ 
+.fruit4{
+    padding: 15px;
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+ 
+.fruit5{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+ 
+ 
+.web{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+ 
+}
+ 
+.headt{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+ 
+}
