@@ -1,0 +1,19 @@
+ line for line in csv_reader:
+         print(Data[1])#manipulates codes from calling collumns into calling rows
+    
+
+    #header = next(csv_reader)
+     
+  
+    
+    
+    
+   # for lines in csv_reader:
+    #    Dataset = lines.strip().split(',')
+     #   print(Dataset[0])
+            
+
+    
+    
+    #LifeExpYr = int(LifeExpYr)
+   # print(LifeExpYr)
